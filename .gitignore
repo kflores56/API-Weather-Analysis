@@ -1,6 +1,10 @@
 #User addition
 .DS_store
-api_keys.py
+
+#Ignore api keys
+/api_keys.py
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
