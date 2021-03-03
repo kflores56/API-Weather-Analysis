@@ -1,6 +1,6 @@
-# Python API Challenge
+# API Weather Analysis 
 
-## Part I - WeatherPy
+## Part I - Weather Analysis
  
 In part I, a Python script was created to visualize the weather of 500+ unique cities across the world of varying distance from the equator. To accomplish this, a simple Python library and the OpenWeatherMap API were used to create a representative model of weather across world cities.
 
@@ -25,7 +25,7 @@ The second series of includes a linear regression on each relationship and separ
 After each pair of plots, take the time to explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 Your final notebook must:
 
-## Part II - VacationPy
+## Part II - Vacation Destination Analysis
 
 Part II starts by displaying humidity for every city from Part I.
 
