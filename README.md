@@ -11,6 +11,8 @@ The first series of scatter plots showcases the following relationships:
 - Cloudiness (%) vs. Latitude
 - Wind Speed (mph) vs. Latitude
 
+![Latitude%20vs.%20Temperature.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/Latitude%20vs.%20Temperature.png)
+
 The second series of includes a linear regression on each relationship and separates the plots into Northern Hemisphere and Southern Hemisphere:
 
 - Northern Hemisphere - Temperature (F) vs. Latitude
@@ -22,8 +24,8 @@ The second series of includes a linear regression on each relationship and separ
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-After each pair of plots, take the time to explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
-Your final notebook must:
+
+
 
 ## Part II - Vacation Destination Analysis
 
@@ -35,5 +37,10 @@ The dataframe was then narrowed down to ideal weather conditions:
 - Wind speed less than 10 mph.
 - Zero cloudiness
 
-Using Google Places API a hotel was located for each city  within 5000 meters. The hotels were then ploted on top of the humity heatmap with each pin containing the Hotel Name, City, and Country.
+Using Google Places API a hotel was located for each city  within 5000 meters. 
 
+![Hotel_List.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/VacationPy/Hotel_List.png)
+
+The hotels were then ploted on top of the humity heatmap with each pin containing the Hotel Name, City, and Country.
+
+![Hotel_Heatmap.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/VacationPy/Hotel_Heatmap.png)
