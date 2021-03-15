@@ -41,7 +41,7 @@ The dataframe was then narrowed down to ideal weather conditions:
 
 Using Google Places API a hotel was located for each city  within 5000 meters. 
 
-<img src="https://github.com/kflores56/API-Weather-Analysis/blob/main/VacationPy/Hotel_List.png" width="400">
+<img src="https://github.com/kflores56/API-Weather-Analysis/blob/main/VacationPy/Hotel_List.png" width="600">
 
 The hotels were then ploted on top of the humity heatmap with each pin containing the Hotel Name, City, and Country.
 
