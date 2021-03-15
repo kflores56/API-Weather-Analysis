@@ -24,7 +24,7 @@ The second series of includes a linear regression on each relationship and separ
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-
+![North_linreg.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/North_linreg.png) ![South_linreg.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/South_linreg.png)
 
 
 ## Part II - Vacation Destination Analysis
