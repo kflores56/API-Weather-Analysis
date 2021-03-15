@@ -25,11 +25,9 @@ The second series of includes a linear regression on each relationship and separ
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 <p float="left">
-  <img src="https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/North_linreg.png" width="200" />
-  <img src="https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/South_linreg.png" width="200" /> 
+  <img src="https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/North_linreg.png" width="300" />
+  <img src="https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/South_linreg.png" width="300" /> 
 </p>
-![North_linreg.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/North_linreg.png width="425") ![South_linreg.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/WeatherPy/Outputs/South_linreg.png width="425")
-
 
 ## Part II - Vacation Destination Analysis
 
