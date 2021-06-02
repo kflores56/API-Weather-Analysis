@@ -46,3 +46,6 @@ Using Google Places API a hotel was located for each city  within 5000 meters.
 The hotels were then ploted on top of the humity heatmap with each pin containing the Hotel Name, City, and Country.
 
 ![Hotel_Heatmap.png](https://github.com/kflores56/API-Weather-Analysis/blob/main/VacationPy/Hotel_Heatmap.png)
+
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:kristin.flores56@gmail.com)
